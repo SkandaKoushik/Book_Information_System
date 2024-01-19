@@ -1,24 +1,27 @@
 # Book Information System
 
-A Book Information System is a database that stores information about books, including their title, author, publication date, ISBN, and genre. 
+A Book Information System serves as a comprehensive database, meticulously storing details about books. This encompasses crucial information such as the title, author, publication date, ISBN, and genre. Additionally, it incorporates data about the publisher, the book's format (e.g., hardcover, paperback), page count, and a succinct summary or excerpt.
 
-The system also include information about the publisher, the format of the book (e.g., hardcover, paperback), the number of pages, and a summary or excerpt of the book's contents. 
+This sophisticated system serves a myriad of purposes, including cataloging a library's vast collection, facilitating efficient search functionalities based on specific criteria, and offering personalized book recommendations informed by a user's reading history. Advanced features like user reviews, ratings, and the capability to place holds or make online purchases further enhance the user experience.
 
-This information can be used for various purposes such as cataloging a library's collection, providing search functionality to find books by specific criteria, or for displaying book recommendations based on a user's reading history. 
+In the contemporary landscape, where an abundance of books is published weekly, traditional bookstores and libraries struggle to keep pace with the sheer volume of titles and associated details. The online Book Information System emerges as a solution, seamlessly managing and updating information on numerous books. Users can effortlessly access details of desired books, check their availability on popular online platforms, and even make direct purchases through the website.
 
-The system may also include features such as user reviews, ratings, and the ability to place holds or purchase the book online. The design of a Book Information System can vary depending on the specific needs and requirements of the organization or individual using it.
+This online convenience proves especially valuable for book enthusiasts, students, and casual readers, streamlining the process of exploring, acquiring, and enjoying literature in a simple, elegant, and formal manner.
 
-The book information system is away to view information about any book necessary and buy it if needed. In today’s world hundreds of books are publisher every week and a traditional bookstore or library cannot keep track of the large no of books and their details and availability. 
+<br><br>
+# Requiments
 
-In an online environment information on multiple books can easily be updated and kept track of. The online Book information system allows users to view the information of the required book and also find a its availability in popular online shopping services. It also allows uses to directly buy the book from the vendor via the website. 
+__Operating System__ – Windows 7/8/10/11 <br>
+__Front End__ – HTML, CSS, PHP <br>
+__Back End___ – MySQL <br>
+__Tools__ – XAMPP Server <br>
 
-This is very convenient for book enthusiasts, students and casual readers.
-
-
+<br><br>
 # For More Information read the Project Report
 
+__Report:__ https://github.com/SkandaKoushik/Book_Information_System/blob/44d3811a1e4b66a058dd0f3f04ad18a06ecbf99c/Project%20Report.pdf
 
-Reference: https://github.com/Anandrajukm/online-book-store-project-in-php-master
+__Reference__: https://github.com/Anandrajukm/online-book-store-project-in-php-master
 
-
+<br><br>
 # Thank You
